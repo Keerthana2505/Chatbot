@@ -1,0 +1,39 @@
+﻿Name,Value.tag,Value.patterns,Value.responses
+intents,greeting,Is anyone there?,
+intents,greeting,Hi,
+intents,greeting,Hey,
+intents,greeting,Hi there,
+intents,greeting,Good day,
+intents,greeting,Happy day,
+intents,greeting,Hello,Hello. How can I help?
+intents,how_are_you,How are you,Fine! Thanks for asking 
+intents,hola,Hola,Good to see you again
+intents,new_help_desk_ticket,How can I submit a new help desk ticket?,Through help desk Mail Id or help desk portal
+intents,helpdesk_mail_id,Can you share the help desk's email ID with me?,helpdesk@srmtech.com
+intents,track_status,How to track my ticket status ?,Once the ticket has been created you can either login to help desk portal or simply click on 'view ticket' from the mail you have received
+intents,existing_ticket,How do I check the status of my existing ticket?,Can see in help desk portal
+intents,required_information,What information should I include when submitting a help desk ticket?,"1. BU
+2. phone
+3. subject 
+4. description of your issue 
+5. priority level 
+6.  classification"
+intents,resolution_time,When will my ticket be solved ?,Depends on priority levels.
+intents,attachments_screenshots,Can I add attachments or screenshots to my help desk ticket ?,Yes you can. In help desk portal there is attachment option. There u can add your attachments nd screenshots
+intents,update_existing_ticket,How can I provide additional information or updates to an existing ticket?,Through help desk portal. In that you can update your existing ticket. In view option you can see multiple sub options of your raised tickets
+intents,feedback,How can I provide feedback the support I received for my help desk ticket?,In help desk portal you can see the feed back option in that you can provide your feedback.
+intents,goodbye,Bye,
+intents,goodbye,See you later,
+intents,goodbye,Goodbye,
+intents,goodbye,"Nice chatting to you, bye",
+intents,goodbye,I am leaving,
+intents,goodbye,Have a Good Day,
+intents,goodbye,Till next time,Bye! Come back again soon.
+intents,thanks,Thanks,
+intents,thanks,Thank you,
+intents,thanks,That's helpful,
+intents,thanks,"Awesome, thanks",
+intents,thanks,Thanks for helping me,My pleasure
+intents,noanswer,,
+intents,noanswer,,
+intents,noanswer,,Sorry! I can't understand you. Please provide more context or details so that I can better understand and help you
